@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="564" it="0" lt="564" ct="521" ts="1676552766875" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3155" sby="137" ng="1" na="1">
+  <java.net.URL>https://rickandmortyapi.com/api/character/1</java.net.URL>
+</httpSample>
+<sample t="700" it="0" lt="564" ct="521" ts="1676552766738" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="3155" sby="137" ng="1" na="1"/>
+<httpSample t="129" it="0" lt="129" ct="85" ts="1676552767799" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3102" sby="137" ng="1" na="1">
+  <java.net.URL>https://rickandmortyapi.com/api/character/2</java.net.URL>
+</httpSample>
+<sample t="201" it="0" lt="129" ct="85" ts="1676552767731" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="3102" sby="137" ng="1" na="1"/>
+
+<httpSample t="1190" it="0" lt="1190" ct="874" ts="1676560473115" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3151" sby="139" ng="2" na="2">
+  <java.net.URL>https://rickandmortyapi.com/api/character/1</java.net.URL>
+</httpSample>
+<sample t="1380" it="0" lt="1190" ct="874" ts="1676560472943" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="3151" sby="139" ng="2" na="2"/>
+<httpSample t="339" it="0" lt="339" ct="108" ts="1676560473988" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3102" sby="139" ng="1" na="1">
+  <java.net.URL>https://rickandmortyapi.com/api/character/2</java.net.URL>
+</httpSample>
+<sample t="401" it="0" lt="339" ct="108" ts="1676560473926" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="3102" sby="139" ng="1" na="1"/>
+
+</testResults>

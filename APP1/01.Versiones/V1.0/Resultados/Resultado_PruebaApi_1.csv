@@ -1,0 +1,13 @@
+elapsed,label,responseCode,responseMessage,success,bytes,sentBytes,URL,Latency,Hostname,Connect
+125,PruebaApi,200,OK,true,3154,137,https://rickandmortyapi.com/api/character/1,124,MTP-D3H9YR3,85
+126,GET_PERSONAJES,200,"Number of samples in transaction : 1, number of failing samples : 0",true,3154,137,null,124,MTP-D3H9YR3,85
+116,PruebaApi,200,OK,true,3106,137,https://rickandmortyapi.com/api/character/2,115,MTP-D3H9YR3,78
+116,GET_PERSONAJES,200,"Number of samples in transaction : 1, number of failing samples : 0",true,3106,137,null,115,MTP-D3H9YR3,78
+564,PruebaApi,200,OK,true,3155,137,https://rickandmortyapi.com/api/character/1,564,MTP-D3H9YR3,521
+700,GET_PERSONAJES,200,"Number of samples in transaction : 1, number of failing samples : 0",true,3155,137,null,564,MTP-D3H9YR3,521
+129,PruebaApi,200,OK,true,3102,137,https://rickandmortyapi.com/api/character/2,129,MTP-D3H9YR3,85
+201,GET_PERSONAJES,200,"Number of samples in transaction : 1, number of failing samples : 0",true,3102,137,null,129,MTP-D3H9YR3,85
+1190,PruebaApi,200,OK,true,3151,139,https://rickandmortyapi.com/api/character/1,1190,MTP-D3H9YR3,874
+1380,GET_PERSONAJES,200,"Number of samples in transaction : 1, number of failing samples : 0",true,3151,139,null,1190,MTP-D3H9YR3,874
+339,PruebaApi,200,OK,true,3102,139,https://rickandmortyapi.com/api/character/2,339,MTP-D3H9YR3,108
+401,GET_PERSONAJES,200,"Number of samples in transaction : 1, number of failing samples : 0",true,3102,139,null,339,MTP-D3H9YR3,108
