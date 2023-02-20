@@ -18,4 +18,22 @@
 </httpSample>
 <sample t="401" it="0" lt="339" ct="108" ts="1676560473926" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="3102" sby="139" ng="1" na="1"/>
 
+<httpSample t="892" it="0" lt="891" ct="844" ts="1676563293080" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3156" sby="139" ng="2" na="2">
+  <java.net.URL>https://rickandmortyapi.com/api/character/1</java.net.URL>
+</httpSample>
+<sample t="1127" it="0" lt="891" ct="844" ts="1676563292874" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="3156" sby="139" ng="2" na="2"/>
+<httpSample t="180" it="0" lt="180" ct="76" ts="1676563293930" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3102" sby="139" ng="1" na="1">
+  <java.net.URL>https://rickandmortyapi.com/api/character/2</java.net.URL>
+</httpSample>
+<sample t="254" it="0" lt="180" ct="76" ts="1676563293857" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="3102" sby="139" ng="1" na="1"/>
+
+<httpSample t="1310" it="0" lt="1310" ct="1262" ts="1676621483455" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3156" sby="139" ng="2" na="2">
+  <java.net.URL>https://rickandmortyapi.com/api/character/1</java.net.URL>
+</httpSample>
+<sample t="1474" it="0" lt="1310" ct="1262" ts="1676621483309" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="3156" sby="139" ng="2" na="2"/>
+<httpSample t="461" it="0" lt="461" ct="360" ts="1676621484356" s="true" lb="PruebaApi" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="3102" sby="139" ng="1" na="1">
+  <java.net.URL>https://rickandmortyapi.com/api/character/2</java.net.URL>
+</httpSample>
+<sample t="530" it="0" lt="461" ct="360" ts="1676621484288" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="3102" sby="139" ng="1" na="1"/>
+
 </testResults>
