@@ -74,7 +74,7 @@
         </hashTree>
         <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="30" enabled="true">
           <stringProp name="TestPlan.comments">ThinkTime 30 sg</stringProp>
-          <stringProp name="ConstantTimer.delay">30</stringProp>
+          <stringProp name="ConstantTimer.delay">30000</stringProp>
         </ConstantTimer>
         <hashTree/>
         <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">

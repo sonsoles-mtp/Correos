@@ -36,4 +36,6 @@
 </httpSample>
 <sample t="530" it="0" lt="461" ct="360" ts="1676621484288" s="true" lb="GET_PERSONAJES" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-2" dt="" by="3102" sby="139" ng="1" na="1"/>
 
+
+
 </testResults>
