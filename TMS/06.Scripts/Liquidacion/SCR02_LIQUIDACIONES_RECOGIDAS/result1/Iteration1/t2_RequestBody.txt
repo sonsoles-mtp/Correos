@@ -1,0 +1,8 @@
+"{\r\n"
+""date": "2023-04-10T17:02:43+0100",\r\n"
+""deviceCode": "PDA1458763",\r\n"
+""interfaceCode": "INT5248967",\r\n"
+""route": "PF15",\r\n"
+""userCode": "P001234",\r\n"
+""centerId": "1900009"\r\n"
+"}\r\n"

@@ -1,0 +1,214 @@
+Virtual User Script started at: 10/04/2023 16:20:30
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.1.0 for Windows 2008 R2; build 460 (abr 22 2021 19:27:24)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\E020585\Desktop\PRUEBAS_VUGEN\NuevosScripts\Liquidacion\SCR02_LIQUIDACIONES_AGRUPACION_DH\\default.cfg"  	[MsgId: MMSG-27141]
+Vuser directory: "C:\Users\E020585\Desktop\PRUEBAS_VUGEN\NuevosScripts\Liquidacion\SCR02_LIQUIDACIONES_AGRUPACION_DH"  	[MsgId: MMSG-27052]
+Vuser output directory: "C:\Users\E020585\Desktop\PRUEBAS_VUGEN\NuevosScripts\Liquidacion\SCR02_LIQUIDACIONES_AGRUPACION_DH"  	[MsgId: MMSG-27050]
+Operating system's current working directory: "c:\users\e020585\desktop\pruebas_vugen\nuevosscripts\liquidacion\scr02_liquidaciones_agrupacion_dh"  	[MsgId: MMSG-27048]
+UTC (GMT) start date/time   : 2023-04-10 14:20:30  	[MsgId: MMSG-26992]
+LOCAL start date/time       : 2023-04-10 16:20:30  	[MsgId: MMSG-26991]
+Local daylight-Savings-Time : Yes  	[MsgId: MMSG-26990]
+Some of the Runtime Settings:  	[MsgId: MMSG-27142]
+    Download non-HTML resources: Yes  	[MsgId: MMSG-27018]
+    Verification checks: No  	[MsgId: MMSG-27017]
+    Convert from/to UTF-8: No  	[MsgId: MMSG-27016]
+    Simulate a new user each iteration: Yes  	[MsgId: MMSG-27009]
+    Non-critical item errors as warnings: Yes  	[MsgId: MMSG-27008]
+    HTTP errors as warnings: No  	[MsgId: MMSG-27007]
+    WinInet replay instead of Sockets: No  	[MsgId: MMSG-27006]
+    HTTP version: 1.1  	[MsgId: MMSG-27005]
+    Keep-Alive HTTP connections: Yes  	[MsgId: MMSG-27004]
+    Max self Meta refresh updates: 2  	[MsgId: MMSG-27003]
+    Obtaining the proxy settings from the default browser: No proxy is used (direct connection to the Internet)  	[MsgId: MMSG-26845]
+    DNS caching: Yes  	[MsgId: MMSG-27035]
+    Simulate browser cache: Yes  	[MsgId: MMSG-27034]
+        Cache URLs requiring content (e.g., HTMLs): Yes  	[MsgId: MMSG-27033]
+            Additional URLs requiring content: None  	[MsgId: MMSG-27032]
+        Check for newer versions every visit to the page: No  	[MsgId: MMSG-27031]
+    Page download timeout (sec): 120  	[MsgId: MMSG-27030]
+    Resource Page Timeout is a Warning: No  	[MsgId: MMSG-27029]
+    ContentCheck enabled: Yes  	[MsgId: MMSG-27028]
+    ContentCheck script-level file: "C:\Users\E020585\Desktop\PRUEBAS_VUGEN\NuevosScripts\Liquidacion\SCR02_LIQUIDACIONES_AGRUPACION_DH\LrwiAedScript.xml"  	[MsgId: MMSG-27027]
+    Enable Web Page Breakdown: No  	[MsgId: MMSG-27026]
+    Enable connection data points: Yes  	[MsgId: MMSG-27023]
+    Process socket after reschedule: Yes  	[MsgId: MMSG-27022]
+    Snapshot on error: No  	[MsgId: MMSG-27021]
+    Define each step as a transaction: No  	[MsgId: MMSG-27020]
+    Read beyond Content-Length: No  	[MsgId: MMSG-26994]
+    Parse HTML Content-Type: TEXT  	[MsgId: MMSG-26999]
+    Graph hits per second and HTTP status codes: Yes  	[MsgId: MMSG-26998]
+    Graph response bytes per second: Yes  	[MsgId: MMSG-26997]
+    Graph pages per second: No  	[MsgId: MMSG-26996]
+    Web recorder version ID: 8  	[MsgId: MMSG-26995]
+vuser_init.c(3): web_set_sockets_option started  	[MsgId: MMSG-26355]
+vuser_init.c(3): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+vuser_init.c(4): web_set_max_html_param_len started  	[MsgId: MMSG-26355]
+vuser_init.c(4): web_set_max_html_param_len was successful  	[MsgId: MMSG-26392]
+vuser_init.c(6): web_add_header("Content-Type") started  	[MsgId: MMSG-26355]
+vuser_init.c(6): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+vuser_init.c(6): "Content-Type: application/x-www-form-urlencoded" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+vuser_init.c(6): web_add_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+vuser_init.c(8): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+vuser_init.c(8): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+vuser_init.c(15): web_submit_data("token") started  	[MsgId: MMSG-26355]
+vuser_init.c(15): t=205ms: Connecting [0] to host 172.21.36.108:443  	[MsgId: MMSG-26000]
+vuser_init.c(15): t=206ms: Connected socket [0] from 10.70.20.85:29201 to 172.21.36.108:443 in 1 ms  	[MsgId: MMSG-26000]
+vuser_init.c(15): t=208ms: Trying to set SNI with servername pocisam.correospre.es  	[MsgId: MMSG-26000]
+vuser_init.c(15): t=208ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+vuser_init.c(15): t=216ms: 316-byte request headers for "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token" (RelFrameId=1, Internal ID=1)
+vuser_init.c(15):     POST /mga/sps/oauth/oauth20/token HTTP/1.1\r\n
+vuser_init.c(15):     Content-Type: application/x-www-form-urlencoded\r\n
+vuser_init.c(15):     Cache-Control: no-cache\r\n
+vuser_init.c(15):     User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)\r\n
+vuser_init.c(15):     Accept-Encoding: gzip, deflate\r\n
+vuser_init.c(15):     Accept: */*\r\n
+vuser_init.c(15):     Connection: Keep-Alive\r\n
+vuser_init.c(15):     Host: pocisam.correospre.es\r\n
+vuser_init.c(15):     Content-Length: 93\r\n
+vuser_init.c(15):     \r\n
+vuser_init.c(15): t=221ms: 93-byte request body for "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token" (RelFrameId=1, Internal ID=1)
+vuser_init.c(15):     grant_type=client_credentials&client_id=hades&client_secret=PbCc1xzVLyg1878ti0US&scope=ope
+vuser_init.c(15):     nid
+vuser_init.c(15): t=457ms: 678-byte response headers for "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token" (RelFrameId=1, Internal ID=1)
+vuser_init.c(15):     HTTP/1.1 200 OK\r\n
+vuser_init.c(15):     content-language: en-US\r\n
+vuser_init.c(15):     content-type: application/json;charset=UTF-8\r\n
+vuser_init.c(15):     date: Mon, 10 Apr 2023 14:21:08 GMT\r\n
+vuser_init.c(15):     p3p: CP="NON CUR OTPi OUR NOR UNI"\r\n
+vuser_init.c(15):     transfer-encoding: chunked\r\n
+vuser_init.c(15):     access-control-allow-origin: *\r\n
+vuser_init.c(15):     x-frame-options: SAMEORIGIN\r\n
+vuser_init.c(15):     cache-control: no-store, no-cache=set-cookie\r\n
+vuser_init.c(15):     expires: Thu, 01 Dec 1994 16:00:00 GMT\r\n
+vuser_init.c(15):     strict-transport-security: max-age=31536000; includeSubDomains\r\n
+vuser_init.c(15):     pragma: no-cache\r\n
+vuser_init.c(15):     Set-Cookie: AMWEBJCT!%2Fmga!JSESSIONID=000016dnJfK6nfGcEc7_rR_CXFf:ce75908e-a1c0-4004-9a6e
+vuser_init.c(15):     -dcb5e6f65225; Path=/; Secure; HttpOnly\r\n
+vuser_init.c(15):     Set-Cookie: BIGipServerpool_pocisamv1.correospre.es_http=rd183o00000000000000000000ffffac1
+vuser_init.c(15):     810eao443; path=/; Httponly; Secure\r\n
+vuser_init.c(15):     \r\n
+vuser_init.c(15): t=464ms: 5-byte chunked response overhead for "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token" (RelFrameId=1, Internal ID=1)
+vuser_init.c(15):     2f0\r\n
+vuser_init.c(15): t=464ms: 7-byte chunked response overhead for "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token" (RelFrameId=1, Internal ID=1)
+vuser_init.c(15):     \r\n
+vuser_init.c(15):     0\r\n
+vuser_init.c(15):     \r\n
+vuser_init.c(15): t=465ms: 752-byte chunked response body for "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token" (RelFrameId=1, Internal ID=1)
+vuser_init.c(15):     {"access_token":"PXLENU06nFW","scope":"openid","id_token":"eyJraWQiOiJBM1J4dXhNTTdyVEw2QXN
+vuser_init.c(15):     ubUxTdHJtLVhya3AwZUk4YzVjalh2bDdtRDVRIiwiYWxnIjoiUlMyNTYifQ.eyJjb21wYW55TmFtZSI6Ik51ZXZvIF
+vuser_init.c(15):     RNUyIsImlhdCI6MTY4MTEzNjQ2OCwiaXNzIjoiaHR0cHM6Ly9wb2Npc2FtLmNvcnJlb3NwcmUuZXMiLCJhdF9oYXNo
+vuser_init.c(15):     IjoiZEFPRjBlM2dwNzhaOEVaTWlLTU1iZyIsInN1YiI6ImhhZGVzIiwiZXhwIjoxNjgxMTY1MjY4LCJhdWQiOiJoYW
+vuser_init.c(15):     RlcyJ9.RcUDlPbQY2EnW_TF7lmW7aSGg1ZBx57mX6IINLsxPknZ-YR2YUbjRMaUcIjvnrmEffAn0swerEf3OL9VjMh
+vuser_init.c(15):     nrsl5AgYhXO3qkgpSK9l1FWQNmbqh33F0DCK5SeWZ1nkQF3MVq6LDqOSwWR1ntFHIVhfmksigDsuVqbZIpqyOZnBS5
+vuser_init.c(15):     T-psYIR_wlmolQ-xMx5YFD9CNlEisDLhQX5HSG8f90Lb3v2KIroKaxyFpFh0axE_tt6y8-NP1qqb5s42L7ovp8UZyo
+vuser_init.c(15):     L4_bhDk2-38mOUlEnpa5hO0XYzCNgX64taN23e00HZlbZtW3m69D5eDRXRbNxt5Ctz8Qwuy3TRUl7pg","token_ty
+vuser_init.c(15):     pe":"bearer","expires_in":28799}
+vuser_init.c(15): Notify: Saving Parameter "token = eyJraWQiOiJBM1J4dXhNTTdyVEw2QXNubUxTdHJtLVhya3AwZUk4YzVjalh2bDdtRDVRIiwiYWxnIjoiUlMyNTYifQ.eyJjb21wYW55TmFtZSI6Ik51ZXZvIFRNUyIsImlhdCI6MTY4MTEzNjQ2OCwiaXNzIjoiaHR0cHM6Ly9wb2Npc2FtLmNvcnJlb3NwcmUuZXMiLCJhdF9oYXNoIjoiZEFPRjBlM2dwNzhaOEVaTWlLTU1iZyIsInN1YiI6ImhhZGVzIiwiZXhwIjoxNjgxMTY1MjY4LCJhdWQiOiJoYWRlcyJ9.RcUDlPbQY2EnW_TF7lmW7aSGg1ZBx57mX6IINLsxPknZ-YR2YUbjRMaUcIjvnrmEffAn0swerEf3OL9VjMhnrsl5AgYhXO3qkgpSK9l1FWQNmbqh33F0DCK5SeWZ1nkQF3MVq6LDqOSwWR1ntFHIVhfmksigDsuVqbZIpqyOZnBS5T-psYIR_wlmolQ-xMx5YFD9CNlEisDLhQX5HSG8f90Lb3v2KIroKaxyFpFh0axE_tt6y8-NP1qqb5s42L7ovp8UZyoL4_bhDk2-38mOUlEnpa5hO0XYzCNgX64taN23e00HZlbZtW3m69D5eDRXRbNxt5Ctz8Qwuy3TRUl7pg".
+vuser_init.c(15): t=470ms: Request done "https://pocisam.correospre.es/mga/sps/oauth/oauth20/token"  	[MsgId: MMSG-26000]
+vuser_init.c(15): web_submit_data("token") was successful, 752 body bytes, 678 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Warning -27077: The "vuser_init" section contains web function(s) when the "Simulate a new user on each iteration" Runtime Setting is ON.  This may produce unpredictable results with multiple iterations  	[MsgId: MWAR-27077]
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action L_Agrupacion_dh.
+L_Agrupacion_dh.c(3): web_set_sockets_option started  	[MsgId: MMSG-26355]
+L_Agrupacion_dh.c(3): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+L_Agrupacion_dh.c(4): web_set_max_html_param_len started  	[MsgId: MMSG-26355]
+L_Agrupacion_dh.c(4): web_set_max_html_param_len was successful  	[MsgId: MMSG-26392]
+L_Agrupacion_dh.c(6): web_add_header("Content-Type") started  	[MsgId: MMSG-26355]
+L_Agrupacion_dh.c(6): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+L_Agrupacion_dh.c(6): "Content-Type: application/x-www-form-urlencoded" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+L_Agrupacion_dh.c(6): web_add_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+L_Agrupacion_dh.c(10): Notify: Transaction "SCR02_LIQUIDACION_AGRUPACION_DH_DELIVERY" started.
+L_Agrupacion_dh.c(49): Notify: Transaction "SCR02_LIQUIDACION_AGRUPACION_DH_DELIVERY" ended with a "Pass" status (Duration: 0,0018).
+L_Agrupacion_dh.c(51): Notify: Transaction "SCR02_LIQUIDACION_AGRUPACION_DH_UNITRETURNS" started.
+L_Agrupacion_dh.c(53): web_rest("POST: https://api1-intapp.correospre.es/logistics/logist...") started  	[MsgId: MMSG-26355]
+L_Agrupacion_dh.c(53): Notify: Parameter Substitution: parameter "fec_actual" =  "2023-04-10T16:20:31+0100"
+L_Agrupacion_dh.c(53): Notify: Next row for parameter ruta_agrupacion_dh = 1 [table  = ruta_agrupacion_dh].
+L_Agrupacion_dh.c(53): Notify: Parameter Substitution: parameter "ruta_agrupacion_dh" =  "PC00"
+L_Agrupacion_dh.c(53): Notify: Next row for parameter cod_centro_agrupacion_dh = 1 [table  = cod_centro_agrupacion_dh].
+L_Agrupacion_dh.c(53): Notify: Parameter Substitution: parameter "cod_centro_agrupacion_dh" =  "1900009"
+L_Agrupacion_dh.c(53): Notify: ****************   web_add_header is called internally from web_rest. The following messages are from web_add_header   *****************
+L_Agrupacion_dh.c(53): Notify: Parameter Substitution: parameter "token" =  "eyJraWQiOiJBM1J4dXhNTTdyVEw2QXNubUxTdHJtLVhya3AwZUk4YzVjalh2bDdtRDVRIiwiYWxnIjoiUlMyNTYifQ.eyJjb21wYW55TmFtZSI6Ik51ZXZvIFRNUyIsImlhdCI6MTY4MTEzNjQ2OCwiaXNzIjoiaHR0cHM6Ly9wb2Npc2FtLmNvcnJlb3NwcmUuZXMiLCJhdF9oYXNoIjoiZEFPRjBlM2dwNzhaOEVaTWlLTU1iZyIsInN1YiI6ImhhZGVzIiwiZXhwIjoxNjgxMTY1MjY4LCJhdWQiOiJoYWRlcyJ9.RcUDlPbQY2EnW_TF7lmW7aSGg1ZBx57mX6IINLsxPknZ-YR2YUbjRMaUcIjvnrmEffAn0swerEf3OL9VjMhnrsl5AgYhXO3qkgpSK9l1FWQNmbqh33F0DCK5SeWZ1nkQF3MVq6LDqOSwWR1ntFHIVhfmksigDsuVqbZIpqyOZnBS5T-psYIR_wlmolQ-xMx5YFD9CNlEisDLhQX5HSG8f90Lb3v2KIroKaxyFpFh0axE_tt6y8-NP1qqb5s42L7ovp8UZyoL4_bhDk2-38mOUlEnpa5hO0XYzCNgX64taN23e00HZlbZtW3m69D5eDRXRbNxt5Ctz8Qwuy3TRUl7pg"
+L_Agrupacion_dh.c(53): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+L_Agrupacion_dh.c(53): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+L_Agrupacion_dh.c(53): "Authorization: Bearer eyJraWQiOiJBM1J4dXhNTTdyVEw2QXNubUxTdHJtLVhya3AwZUk4YzVjalh2bDdtRDVRIiwiYWxnIjoiUlMyNTYifQ.eyJjb21wYW55TmFtZSI6Ik51ZXZvIFRNUyIsImlhdCI6MTY4MTEzNjQ2OCwiaXNzIjoiaHR0cHM6Ly9wb2Npc2FtLmNvcnJlb3NwcmUuZXMiLCJhdF9oYXNoIjoiZEFPRjBlM2dwNzhaOEVaTWlLTU1iZyIsInN1YiI6ImhhZGVzIiwiZXhwIjoxNjgxMTY1MjY4LCJhdWQiOiJoYWRlcyJ9.RcUDlPbQY2EnW_TF7lmW7aSGg1ZBx57mX6IINLsxPknZ-YR2YUbjRMaUcIjvnrmEffAn0swerEf3OL9VjMhnrsl5AgYhXO3qkgpSK9l1FWQNmbqh33F0DCK5SeWZ1nkQF3MVq6LDqOSwWR1ntFHIVhfmksigDsuVqbZIpqyOZnBS5T-psYIR_wlmolQ-xMx5YFD9CNlEisDLhQX5HSG8f90Lb3v2KIroKaxyFpFh0axE_tt6y8-NP1qqb5s42L7ovp8UZyoL4_bhDk2-38mOUlEnpa5hO0XYzCNgX64taN23e00HZlbZtW3m69D5eDRXRbNxt5Ctz8Qwuy3TRUl7pg" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+L_Agrupacion_dh.c(53): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+L_Agrupacion_dh.c(53): web_add_header("Content-Type") started  	[MsgId: MMSG-26355]
+L_Agrupacion_dh.c(53): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+L_Agrupacion_dh.c(53): "Content-Type: application/json" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+L_Agrupacion_dh.c(53): web_add_header("Content-Type") highest severity level was "warning"  	[MsgId: MMSG-26391]
+L_Agrupacion_dh.c(53): Notify: ****************   End of messages from web_add_header   *****************
+L_Agrupacion_dh.c(53): t=562ms: Closed connection [0] to pocisam.correospre.es:443 after completing 1 request(s)  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=563ms: Connecting [0] to host 172.17.160.23:443  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=600ms: Connected socket [0] from 10.70.20.85:29202 to 172.17.160.23:443 in 37 ms  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=601ms: Trying to set SNI with servername api1-intapp.correospre.es  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=601ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=685ms: 989-byte request headers for "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns" (RelFrameId=1, Internal ID=2)
+L_Agrupacion_dh.c(53):     POST /logistics/logistics/api/v1/unitreturns HTTP/1.1\r\n
+L_Agrupacion_dh.c(53):     Authorization: Bearer eyJraWQiOiJBM1J4dXhNTTdyVEw2QXNubUxTdHJtLVhya3AwZUk4YzVjalh2bDdtRDVR
+L_Agrupacion_dh.c(53):     IiwiYWxnIjoiUlMyNTYifQ.eyJjb21wYW55TmFtZSI6Ik51ZXZvIFRNUyIsImlhdCI6MTY4MTEzNjQ2OCwiaXNzIjo
+L_Agrupacion_dh.c(53):     iaHR0cHM6Ly9wb2Npc2FtLmNvcnJlb3NwcmUuZXMiLCJhdF9oYXNoIjoiZEFPRjBlM2dwNzhaOEVaTWlLTU1iZyIsI
+L_Agrupacion_dh.c(53):     nN1YiI6ImhhZGVzIiwiZXhwIjoxNjgxMTY1MjY4LCJhdWQiOiJoYWRlcyJ9.RcUDlPbQY2EnW_TF7lmW7aSGg1ZBx5
+L_Agrupacion_dh.c(53):     7mX6IINLsxPknZ-YR2YUbjRMaUcIjvnrmEffAn0swerEf3OL9VjMhnrsl5AgYhXO3qkgpSK9l1FWQNmbqh33F0DCK5
+L_Agrupacion_dh.c(53):     SeWZ1nkQF3MVq6LDqOSwWR1ntFHIVhfmksigDsuVqbZIpqyOZnBS5T-psYIR_wlmolQ-xMx5YFD9CNlEisDLhQX5HS
+L_Agrupacion_dh.c(53):     G8f90Lb3v2KIroKaxyFpFh0axE_tt6y8-NP1qqb5s42L7ovp8UZyoL4_bhDk2-38mOUlEnpa5hO0XYzCNgX64taN23
+L_Agrupacion_dh.c(53):     e00HZlbZtW3m69D5eDRXRbNxt5Ctz8Qwuy3TRUl7pg\r\n
+L_Agrupacion_dh.c(53):     Content-Type: application/json\r\n
+L_Agrupacion_dh.c(53):     Cache-Control: no-cache\r\n
+L_Agrupacion_dh.c(53):     User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)\r\n
+L_Agrupacion_dh.c(53):     Accept-Encoding: gzip, deflate\r\n
+L_Agrupacion_dh.c(53):     Accept: */*\r\n
+L_Agrupacion_dh.c(53):     Connection: Keep-Alive\r\n
+L_Agrupacion_dh.c(53):     Host: api1-intapp.correospre.es\r\n
+L_Agrupacion_dh.c(53):     Content-Length: 169\r\n
+L_Agrupacion_dh.c(53):     \r\n
+L_Agrupacion_dh.c(53): t=686ms: 169-byte request body for "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns" (RelFrameId=1, Internal ID=2)
+L_Agrupacion_dh.c(53):     {\r\n
+L_Agrupacion_dh.c(53):     "date": "2023-04-10T16:20:31+0100",\r\n
+L_Agrupacion_dh.c(53):     "deviceCode": "PDA1458763",\r\n
+L_Agrupacion_dh.c(53):     "interfaceCode": "INT5248967",\r\n
+L_Agrupacion_dh.c(53):     "route": "PC00",\r\n
+L_Agrupacion_dh.c(53):     "userCode": "P001234",\r\n
+L_Agrupacion_dh.c(53):     "centerId": "1900009"\r\n
+L_Agrupacion_dh.c(53):     }\r\n
+L_Agrupacion_dh.c(53): t=765ms: 236-byte response headers for "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns" (RelFrameId=1, Internal ID=2)
+L_Agrupacion_dh.c(53):     HTTP/1.1 404 Not Found\r\n
+L_Agrupacion_dh.c(53):     Content-Type: application/json; charset=UTF-8\r\n
+L_Agrupacion_dh.c(53):     Content-Length: 353\r\n
+L_Agrupacion_dh.c(53):     Date: Mon, 10 Apr 2023 14:20:31 GMT\r\n
+L_Agrupacion_dh.c(53):     Set-Cookie: 11318fb6d7dbcf31e30910e19b23fe19=4e018f4dcd1631e612a05d315ba0b4e9; path=/; Htt
+L_Agrupacion_dh.c(53):     pOnly; Secure\r\n
+L_Agrupacion_dh.c(53):     \r\n
+L_Agrupacion_dh.c(53): t=767ms: 353-byte response body for "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns" (RelFrameId=1, Internal ID=2)
+L_Agrupacion_dh.c(53):     {\n
+L_Agrupacion_dh.c(53):       "code": 404,\n
+L_Agrupacion_dh.c(53):       "apierror": {\n
+L_Agrupacion_dh.c(53):         "uuaa": "servicio vuelta unidad",\n
+L_Agrupacion_dh.c(53):         "version": "1.0.21-RC-SNAPSHOT",\n
+L_Agrupacion_dh.c(53):         "status": "NOT_FOUND",\n
+L_Agrupacion_dh.c(53):         "errorCode": "ENTITY_NOT_FOUND",\n
+L_Agrupacion_dh.c(53):         "timestamp": "10-04-2023 04:20:31",\n
+L_Agrupacion_dh.c(53):         "message": "No fue posible recuperar agrupaciones para la ruta PC00, fecha Mon Apr 10 
+L_Agrupacion_dh.c(53):     17:20:31 CEST 2023 y centro 1900009 indicado"\n
+L_Agrupacion_dh.c(53):       }\n
+L_Agrupacion_dh.c(53):     }
+L_Agrupacion_dh.c(53): Error -26627: HTTP Status-Code=404 (Not Found) for "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns"  	[MsgId: MERR-26627]
+L_Agrupacion_dh.c(53): t=768ms: Closing connection [0] to api1-intapp.correospre.es after receiving status code 404  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=768ms: Closed connection [0] to api1-intapp.correospre.es:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): t=768ms: Request done "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns"  	[MsgId: MMSG-26000]
+L_Agrupacion_dh.c(53): web_rest("POST: https://api1-intapp.correospre.es/logistics/logist...") highest severity level was "ERROR", 353 body bytes, 236 header bytes  	[MsgId: MMSG-26388]
+L_Agrupacion_dh.c(53): Notify: Transaction "SCR02_LIQUIDACION_AGRUPACION_DH_UNITRETURNS" ended with a "Fail" status (Duration: 0,2217 Wasted Time: 0,0067).
+L_Agrupacion_dh.c(53): Notify: Transaction "SCR02_LIQUIDACION_AGRUPACION_DH_UNITRETURNS" has 1 error message(s).
+L_Agrupacion_dh.c(53): Notify: The 1st error message associated with transaction "SCR02_LIQUIDACION_AGRUPACION_DH_UNITRETURNS" is "Error -26627: HTTP Status-Code=404 (Not Found) for "https://api1-intapp.correospre.es/logistics/logistics/api/v1/unitreturns""
+Ending action L_Agrupacion_dh.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+HTML-Mode memory management statistics: Reusable=0, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 26088), ended OK."

@@ -1,0 +1,29 @@
+[
+    {
+        "actionName": "L_Notificaciones",
+        "steps": [
+            {
+                "stepId": "STEP2",
+                "stepName": "Rest Request: POST: https://api1-intapp.correospre.es/logistics/logist...",
+                "infFile": "t2.inf",
+                "time": 1681138375740
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SCR02_LIQUIDACION_NOTIFICACIONES_DELIVERY",
+                "rawStartTime": 1681138375523,
+                "rawEndTime": 1681138375525,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "SCR02_LIQUIDACION_NOTIFICACIONES_UNITRETURNS",
+                "rawStartTime": 1681138375527,
+                "rawEndTime": 1681138375741,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006704807281494141
+            }
+        ]
+    }
+]

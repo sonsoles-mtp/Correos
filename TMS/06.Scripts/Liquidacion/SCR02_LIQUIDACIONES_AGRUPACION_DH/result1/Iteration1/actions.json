@@ -1,0 +1,29 @@
+[
+    {
+        "actionName": "L_Agrupacion_dh",
+        "steps": [
+            {
+                "stepId": "STEP2",
+                "stepName": "Rest Request: POST: https://api1-intapp.correospre.es/logistics/logist...",
+                "infFile": "t2.inf",
+                "time": 1681136431570
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SCR02_LIQUIDACION_AGRUPACION_DH_DELIVERY",
+                "rawStartTime": 1681136431345,
+                "rawEndTime": 1681136431347,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "SCR02_LIQUIDACION_AGRUPACION_DH_UNITRETURNS",
+                "rawStartTime": 1681136431349,
+                "rawEndTime": 1681136431570,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0066983699798583988
+            }
+        ]
+    }
+]

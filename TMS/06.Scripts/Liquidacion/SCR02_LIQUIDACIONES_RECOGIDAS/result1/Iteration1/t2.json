@@ -1,0 +1,11 @@
+{
+  "code": 404,
+  "apierror": {
+    "uuaa": "servicio vuelta unidad",
+    "version": "1.0.21-RC-SNAPSHOT",
+    "status": "NOT_FOUND",
+    "errorCode": "ENTITY_NOT_FOUND",
+    "timestamp": "10-04-2023 05:02:44",
+    "message": "No fue posible recuperar agrupaciones para la ruta PF15, fecha Mon Apr 10 18:02:43 CEST 2023 y centro 1900009 indicado"
+  }
+}

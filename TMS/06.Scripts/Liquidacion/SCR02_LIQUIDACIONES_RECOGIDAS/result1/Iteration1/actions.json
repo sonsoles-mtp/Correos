@@ -1,0 +1,29 @@
+[
+    {
+        "actionName": "L_Recogidas",
+        "steps": [
+            {
+                "stepId": "STEP2",
+                "stepName": "Rest Request: POST: https://api1-intapp.correospre.es/logistics/logist...",
+                "infFile": "t2.inf",
+                "time": 1681138964025
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SCR02_LIQUIDACION_RECOGIDAS_DELIVERY",
+                "rawStartTime": 1681138963807,
+                "rawEndTime": 1681138963808,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "SCR02_LIQUIDACION_RECOGIDAS_UNITRETURNS",
+                "rawStartTime": 1681138963811,
+                "rawEndTime": 1681138964026,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006803274154663086
+            }
+        ]
+    }
+]
