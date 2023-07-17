@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\E020585\Desktop\PRUEBAS_VUGEN\NuevosScripts\Liquidacion\SCR02_LIQUIDACIONES_NOTIFICACIONES
--IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
--ec:\users\e020585\desktop\pruebas_vugen\nuevosscripts\liquidacion\scr02_liquidaciones_notificaciones\\logfile.log
-c:\users\e020585\desktop\pruebas_vugen\nuevosscripts\liquidacion\scr02_liquidaciones_notificaciones\\combined_SCR02_LIQUIDACIONES_NOTIFICACIONES.c
-c:\users\e020585\desktop\pruebas_vugen\nuevosscripts\liquidacion\scr02_liquidaciones_notificaciones\\pre_cci.c
