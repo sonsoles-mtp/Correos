@@ -140,18 +140,18 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="SCR1_CARGA" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-167744931">
+          <collectionProp name="-950304312">
             <stringProp name="49">1</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="50547">300</stringProp>
+            <stringProp name="48873">180</stringProp>
             <stringProp name="53">5</stringProp>
           </collectionProp>
-          <collectionProp name="-184796409">
+          <collectionProp name="-219843738">
             <stringProp name="57">9</stringProp>
             <stringProp name="48">0</stringProp>
             <stringProp name="1722">60</stringProp>
-            <stringProp name="49710">240</stringProp>
+            <stringProp name="48687">120</stringProp>
             <stringProp name="53">5</stringProp>
           </collectionProp>
         </collectionProp>
