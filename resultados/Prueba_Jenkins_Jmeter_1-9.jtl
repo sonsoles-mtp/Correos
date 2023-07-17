@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="548" it="0" lt="509" ct="467" ts="1689590072851" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="1" na="1">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="548" it="85" lt="509" ct="467" ts="1689590072773" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="1" na="1"/>
+<httpSample t="160" it="0" lt="123" ct="85" ts="1689590078788" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="1" na="1">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5372" lt="123" ct="85" ts="1689590073416" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="1" na="1"/>
+<httpSample t="159" it="0" lt="123" ct="85" ts="1689590079428" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="2" na="2">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="7" lt="123" ct="85" ts="1689590079424" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="2" na="2"/>
+<httpSample t="163" it="0" lt="122" ct="82" ts="1689590084773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="2" na="2">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5825" lt="122" ct="82" ts="1689590078949" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="2" na="2"/>
+<httpSample t="167" it="0" lt="126" ct="86" ts="1689590085426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="2" na="2">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="167" it="5836" lt="126" ct="86" ts="1689590079591" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="2" na="2"/>
+<httpSample t="162" it="0" lt="117" ct="83" ts="1689590086092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="3" na="3">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="3" lt="117" ct="83" ts="1689590086091" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="3" na="3"/>
+<httpSample t="404" it="0" lt="364" ct="79" ts="1689590090772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="3" na="3">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="404" it="5838" lt="364" ct="79" ts="1689590084937" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="3" na="3"/>
+<httpSample t="165" it="0" lt="126" ct="85" ts="1689590091427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="3" na="3">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="165" it="5835" lt="126" ct="85" ts="1689590085594" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="3" na="3"/>
+<httpSample t="160" it="0" lt="125" ct="87" ts="1689590092091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="3" na="3">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5838" lt="125" ct="87" ts="1689590086256" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="3" na="3"/>
+<httpSample t="160" it="0" lt="125" ct="85" ts="1689590092757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="4" na="4">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="3" lt="125" ct="85" ts="1689590092756" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="4" na="4"/>
+<httpSample t="154" it="0" lt="118" ct="82" ts="1689590096773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="4" na="4">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="154" it="5595" lt="118" ct="82" ts="1689590091178" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="4" na="4"/>
+<httpSample t="160" it="0" lt="125" ct="80" ts="1689590097427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="4" na="4">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5835" lt="125" ct="80" ts="1689590091593" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="4" na="4"/>
+<httpSample t="155" it="0" lt="121" ct="84" ts="1689590098092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="4" na="4">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5839" lt="121" ct="84" ts="1689590092253" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="4" na="4"/>
+<httpSample t="159" it="0" lt="120" ct="79" ts="1689590098758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="4" na="4">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5840" lt="120" ct="79" ts="1689590092920" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="4" na="4"/>
+<httpSample t="169" it="0" lt="129" ct="88" ts="1689590099425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="169" it="3" lt="129" ct="88" ts="1689590099424" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="5" na="5"/>
+<httpSample t="180" it="0" lt="135" ct="86" ts="1689590102773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="180" it="5848" lt="135" ct="86" ts="1689590096928" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="5" na="5"/>
+<httpSample t="151" it="0" lt="116" ct="79" ts="1689590103427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5838" lt="116" ct="79" ts="1689590097589" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="5" na="5"/>
+<httpSample t="142" it="0" lt="109" ct="74" ts="1689590104091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="142" it="5844" lt="109" ct="74" ts="1689590098249" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="5" na="5"/>
+<httpSample t="163" it="0" lt="125" ct="83" ts="1689590104758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5840" lt="125" ct="83" ts="1689590098919" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="5" na="5"/>
+<httpSample t="153" it="0" lt="119" ct="76" ts="1689590105425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="153" it="5829" lt="119" ct="76" ts="1689590099596" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="5" na="5"/>
+<httpSample t="197" it="0" lt="157" ct="117" ts="1689590106091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="197" it="2" lt="157" ct="117" ts="1689590106090" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="172" it="0" lt="134" ct="94" ts="1689590108773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="172" it="5818" lt="134" ct="94" ts="1689590102956" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="170" it="0" lt="131" ct="91" ts="1689590109427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="170" it="5850" lt="131" ct="91" ts="1689590103578" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="150" it="0" lt="114" ct="77" ts="1689590110092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5858" lt="114" ct="77" ts="1689590104235" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="154" it="0" lt="117" ct="80" ts="1689590110758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="154" it="5837" lt="117" ct="80" ts="1689590104922" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="147" it="0" lt="111" ct="74" ts="1689590111425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5849" lt="111" ct="74" ts="1689590105578" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="152" it="0" lt="116" ct="79" ts="1689590112090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5802" lt="116" ct="79" ts="1689590106289" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="6" na="6"/>
+<httpSample t="150" it="0" lt="116" ct="79" ts="1689590112759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="2" lt="116" ct="79" ts="1689590112758" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="159" it="0" lt="122" ct="82" ts="1689590114771" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5827" lt="122" ct="82" ts="1689590108946" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="163" it="0" lt="126" ct="85" ts="1689590115426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5829" lt="126" ct="85" ts="1689590109599" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="169" it="0" lt="132" ct="95" ts="1689590116090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="169" it="5849" lt="132" ct="95" ts="1689590110243" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="157" it="0" lt="119" ct="80" ts="1689590116757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5845" lt="119" ct="80" ts="1689590110914" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="167" it="0" lt="128" ct="89" ts="1689590117425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="167" it="5853" lt="128" ct="89" ts="1689590111574" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="161" it="0" lt="117" ct="79" ts="1689590118091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="161" it="5850" lt="117" ct="79" ts="1689590112243" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="138" it="0" lt="105" ct="70" ts="1689590118758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="138" it="5850" lt="105" ct="70" ts="1689590112909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="7" na="7"/>
+<httpSample t="156" it="0" lt="118" ct="79" ts="1689590119424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="2" lt="118" ct="79" ts="1689590119423" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="150" it="0" lt="114" ct="76" ts="1689590120773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5842" lt="114" ct="76" ts="1689590114931" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="157" it="0" lt="119" ct="80" ts="1689590121426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5836" lt="119" ct="80" ts="1689590115591" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="156" it="0" lt="120" ct="83" ts="1689590122092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5832" lt="120" ct="83" ts="1689590116260" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="171" it="0" lt="133" ct="92" ts="1689590122759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="171" it="5843" lt="133" ct="92" ts="1689590116915" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="148" it="0" lt="112" ct="75" ts="1689590123427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5832" lt="112" ct="75" ts="1689590117594" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="155" it="0" lt="119" ct="82" ts="1689590124091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5839" lt="119" ct="82" ts="1689590118254" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="151" it="0" lt="115" ct="79" ts="1689590124759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5862" lt="115" ct="79" ts="1689590118898" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="151" it="0" lt="115" ct="78" ts="1689590125424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5844" lt="115" ct="78" ts="1689590119581" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="8" na="8"/>
+<httpSample t="141" it="0" lt="107" ct="73" ts="1689590126092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="141" it="2" lt="107" ct="73" ts="1689590126091" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="145" it="0" lt="111" ct="73" ts="1689590126772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="145" it="5849" lt="111" ct="73" ts="1689590120924" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="147" it="0" lt="111" ct="75" ts="1689590127427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5843" lt="111" ct="75" ts="1689590121585" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="149" it="0" lt="111" ct="75" ts="1689590128091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5842" lt="111" ct="75" ts="1689590122250" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="159" it="0" lt="122" ct="82" ts="1689590128759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5830" lt="122" ct="82" ts="1689590122930" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="441" it="0" lt="406" ct="76" ts="1689590129426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="441" it="5850" lt="406" ct="76" ts="1689590123576" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="161" it="0" lt="122" ct="82" ts="1689590130091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="161" it="5846" lt="122" ct="82" ts="1689590124248" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="131" it="0" lt="98" ct="67" ts="1689590130759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="131" it="5849" lt="98" ct="67" ts="1689590124911" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="135" it="0" lt="103" ct="71" ts="1689590131423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="135" it="5848" lt="103" ct="71" ts="1689590125576" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="156" it="0" lt="119" ct="81" ts="1689590132093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5859" lt="119" ct="81" ts="1689590126234" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="9" na="9"/>
+<httpSample t="155" it="0" lt="120" ct="86" ts="1689590132773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5856" lt="120" ct="86" ts="1689590126918" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="189" it="0" lt="149" ct="101" ts="1689590132758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="189" it="1" lt="149" ct="101" ts="1689590132757" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="168" it="0" lt="130" ct="92" ts="1689590133426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="168" it="5852" lt="130" ct="92" ts="1689590127575" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="113" ct="78" ts="1689590134092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5852" lt="113" ct="78" ts="1689590128241" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="181" it="0" lt="138" ct="102" ts="1689590134758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="181" it="5840" lt="138" ct="102" ts="1689590128919" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="174" it="0" lt="135" ct="96" ts="1689590135426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="174" it="5560" lt="135" ct="96" ts="1689590129867" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="172" it="0" lt="132" ct="92" ts="1689590136091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="172" it="5837" lt="132" ct="92" ts="1689590130255" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="161" it="0" lt="121" ct="84" ts="1689590136759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="161" it="5868" lt="121" ct="84" ts="1689590130891" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="179" it="0" lt="139" ct="104" ts="1689590137424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="179" it="5866" lt="139" ct="104" ts="1689590131559" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="162" it="0" lt="123" ct="86" ts="1689590138092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="5845" lt="123" ct="86" ts="1689590132249" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="113" ct="78" ts="1689590138758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5812" lt="113" ct="78" ts="1689590132947" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="113" ct="76" ts="1689590138773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5845" lt="113" ct="76" ts="1689590132929" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="169" it="0" lt="130" ct="92" ts="1689590139427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="169" it="5833" lt="130" ct="92" ts="1689590133595" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="120" ct="83" ts="1689590140091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5848" lt="120" ct="83" ts="1689590134244" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="154" it="0" lt="117" ct="82" ts="1689590140759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="154" it="5819" lt="117" ct="82" ts="1689590134940" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="146" it="0" lt="109" ct="73" ts="1689590141425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="146" it="5825" lt="109" ct="73" ts="1689590135601" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="146" it="0" lt="113" ct="81" ts="1689590142089" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="146" it="5825" lt="113" ct="81" ts="1689590136264" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="118" ct="86" ts="1689590142758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5839" lt="118" ct="86" ts="1689590136920" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="157" it="0" lt="124" ct="88" ts="1689590143423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5821" lt="124" ct="88" ts="1689590137604" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="163" it="0" lt="126" ct="87" ts="1689590144091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5837" lt="126" ct="87" ts="1689590138256" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="122" ct="86" ts="1689590144756" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5848" lt="122" ct="86" ts="1689590138909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="119" ct="85" ts="1689590144771" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5849" lt="119" ct="85" ts="1689590138924" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="120" ct="79" ts="1689590145426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5830" lt="120" ct="79" ts="1689590139597" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="139" it="0" lt="105" ct="71" ts="1689590146090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="139" it="5840" lt="105" ct="71" ts="1689590140251" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="135" it="0" lt="103" ct="69" ts="1689590146757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="135" it="5845" lt="103" ct="69" ts="1689590140913" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="114" ct="78" ts="1689590147425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5855" lt="114" ct="78" ts="1689590141572" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="122" ct="86" ts="1689590148089" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5856" lt="122" ct="86" ts="1689590142235" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="166" it="0" lt="128" ct="94" ts="1689590148758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="166" it="5851" lt="128" ct="94" ts="1689590142908" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="115" ct="79" ts="1689590149423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5843" lt="115" ct="79" ts="1689590143581" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="116" ct="81" ts="1689590150092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5837" lt="116" ct="81" ts="1689590144256" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="114" ct="80" ts="1689590150756" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5843" lt="114" ct="80" ts="1689590144914" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="172" it="0" lt="131" ct="93" ts="1689590150771" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="172" it="5841" lt="131" ct="93" ts="1689590144931" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="155" it="0" lt="119" ct="82" ts="1689590151425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5841" lt="119" ct="82" ts="1689590145585" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="155" it="0" lt="117" ct="78" ts="1689590152091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5863" lt="117" ct="78" ts="1689590146230" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="113" ct="77" ts="1689590152757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5866" lt="113" ct="77" ts="1689590146892" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="113" ct="77" ts="1689590153424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5850" lt="113" ct="77" ts="1689590147575" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="174" it="0" lt="135" ct="95" ts="1689590154089" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="174" it="5841" lt="135" ct="95" ts="1689590148249" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="156" it="0" lt="117" ct="80" ts="1689590154758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5834" lt="117" ct="80" ts="1689590148925" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="116" ct="79" ts="1689590155422" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5847" lt="116" ct="79" ts="1689590149575" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="160" it="0" lt="120" ct="82" ts="1689590156092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5840" lt="120" ct="82" ts="1689590150252" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="115" ct="79" ts="1689590156756" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5847" lt="115" ct="79" ts="1689590150909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="113" ct="76" ts="1689590156771" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5828" lt="113" ct="76" ts="1689590150944" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="160" it="0" lt="120" ct="83" ts="1689590157426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5845" lt="120" ct="83" ts="1689590151581" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="112" ct="78" ts="1689590158090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5842" lt="112" ct="78" ts="1689590152248" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="112" ct="78" ts="1689590158758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5851" lt="112" ct="78" ts="1689590152907" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="143" it="0" lt="108" ct="74" ts="1689590159425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="143" it="5842" lt="108" ct="74" ts="1689590153583" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="167" it="0" lt="131" ct="94" ts="1689590160089" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="167" it="5827" lt="131" ct="94" ts="1689590154264" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="173" it="0" lt="137" ct="101" ts="1689590160757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="173" it="5843" lt="137" ct="101" ts="1689590154915" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="173" it="0" lt="134" ct="94" ts="1689590161423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="173" it="5851" lt="134" ct="94" ts="1689590155573" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="183" it="0" lt="143" ct="107" ts="1689590162092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="183" it="5840" lt="143" ct="107" ts="1689590156252" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="121" ct="87" ts="1689590162756" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5847" lt="121" ct="87" ts="1689590156909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="162" it="0" lt="123" ct="81" ts="1689590162772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="5852" lt="123" ct="81" ts="1689590156921" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="154" it="0" lt="120" ct="84" ts="1689590163426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="154" it="5839" lt="120" ct="84" ts="1689590157586" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="144" it="0" lt="108" ct="74" ts="1689590164092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="144" it="5853" lt="108" ct="74" ts="1689590158238" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="143" it="0" lt="110" ct="77" ts="1689590164758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="143" it="5852" lt="110" ct="77" ts="1689590158906" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="114" ct="80" ts="1689590165426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5857" lt="114" ct="80" ts="1689590159569" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="174" it="0" lt="116" ct="79" ts="1689590166090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="174" it="5832" lt="116" ct="79" ts="1689590160258" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="130" it="0" lt="98" ct="67" ts="1689590166759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="130" it="5827" lt="98" ct="67" ts="1689590160931" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="124" ct="80" ts="1689590167424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5827" lt="124" ct="80" ts="1689590161597" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="112" ct="76" ts="1689590168093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5817" lt="112" ct="76" ts="1689590162275" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="140" it="0" lt="105" ct="71" ts="1689590168757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="140" it="5842" lt="105" ct="71" ts="1689590162915" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="137" it="0" lt="104" ct="73" ts="1689590168772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="137" it="5836" lt="104" ct="73" ts="1689590162936" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="155" it="0" lt="118" ct="81" ts="1689590169427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5846" lt="118" ct="81" ts="1689590163581" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="166" it="0" lt="126" ct="89" ts="1689590170091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="166" it="5856" lt="126" ct="89" ts="1689590164236" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="145" it="0" lt="109" ct="73" ts="1689590170758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="145" it="5856" lt="109" ct="73" ts="1689590164902" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="165" it="0" lt="106" ct="72" ts="1689590171425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="165" it="5849" lt="106" ct="72" ts="1689590165577" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="147" it="0" lt="111" ct="77" ts="1689590172090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5826" lt="111" ct="77" ts="1689590166265" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="190" it="0" lt="143" ct="105" ts="1689590172759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="190" it="5869" lt="143" ct="105" ts="1689590166890" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="173" it="0" lt="128" ct="85" ts="1689590173423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="173" it="5839" lt="128" ct="85" ts="1689590167584" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="155" it="0" lt="118" ct="82" ts="1689590174092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5851" lt="118" ct="82" ts="1689590168241" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="157" it="0" lt="118" ct="83" ts="1689590174757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5860" lt="118" ct="83" ts="1689590168897" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="144" it="0" lt="109" ct="75" ts="1689590174772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="144" it="5862" lt="109" ct="75" ts="1689590168910" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="112" ct="78" ts="1689590175427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5844" lt="112" ct="78" ts="1689590169583" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="163" it="0" lt="130" ct="75" ts="1689590176092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5835" lt="130" ct="75" ts="1689590170258" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="110" ct="76" ts="1689590176758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5855" lt="110" ct="76" ts="1689590170904" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="115" ct="80" ts="1689590177426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5836" lt="115" ct="80" ts="1689590171591" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="161" it="0" lt="122" ct="84" ts="1689590178091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="161" it="5853" lt="122" ct="84" ts="1689590172238" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="156" it="0" lt="119" ct="81" ts="1689590178758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5810" lt="119" ct="81" ts="1689590172949" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="162" it="0" lt="123" ct="85" ts="1689590179423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="5828" lt="123" ct="85" ts="1689590173596" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="138" it="0" lt="105" ct="72" ts="1689590180093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="138" it="5847" lt="105" ct="72" ts="1689590174247" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="117" ct="81" ts="1689590180757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5843" lt="117" ct="81" ts="1689590174914" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="154" it="0" lt="117" ct="80" ts="1689590180772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="154" it="5857" lt="117" ct="80" ts="1689590174916" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="145" it="0" lt="109" ct="74" ts="1689590181426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="145" it="5850" lt="109" ct="74" ts="1689590175576" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="165" it="0" lt="122" ct="85" ts="1689590182092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="165" it="5837" lt="122" ct="85" ts="1689590176256" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="142" it="0" lt="108" ct="74" ts="1689590182758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="142" it="5851" lt="108" ct="74" ts="1689590176908" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="147" it="0" lt="111" ct="77" ts="1689590183425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5849" lt="111" ct="77" ts="1689590177577" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="153" it="0" lt="117" ct="82" ts="1689590184091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="153" it="5840" lt="117" ct="82" ts="1689590178252" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="140" it="0" lt="106" ct="74" ts="1689590184759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="140" it="5845" lt="106" ct="74" ts="1689590178915" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="144" it="0" lt="111" ct="77" ts="1689590185423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="144" it="5837" lt="111" ct="77" ts="1689590179586" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="160" it="0" lt="122" ct="84" ts="1689590186093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5861" lt="122" ct="84" ts="1689590180232" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="172" it="0" lt="137" ct="80" ts="1689590186758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="172" it="5850" lt="137" ct="80" ts="1689590180909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="162" it="0" lt="125" ct="92" ts="1689590186772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="5845" lt="125" ct="92" ts="1689590180927" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="161" it="0" lt="122" ct="83" ts="1689590187426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="161" it="5855" lt="122" ct="83" ts="1689590181571" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="163" it="0" lt="123" ct="86" ts="1689590188092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5835" lt="123" ct="86" ts="1689590182258" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="121" ct="86" ts="1689590188759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5859" lt="121" ct="86" ts="1689590182901" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="157" it="0" lt="120" ct="85" ts="1689590189426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5854" lt="120" ct="85" ts="1689590183573" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="147" it="0" lt="111" ct="76" ts="1689590190090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5847" lt="111" ct="76" ts="1689590184245" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="160" it="0" lt="120" ct="81" ts="1689590190758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5858" lt="120" ct="81" ts="1689590184900" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="123" ct="89" ts="1689590191424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5857" lt="123" ct="89" ts="1689590185567" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="164" it="0" lt="124" ct="87" ts="1689590192092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="164" it="5839" lt="124" ct="87" ts="1689590186253" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="109" ct="76" ts="1689590192757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5827" lt="109" ct="76" ts="1689590186931" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="146" it="0" lt="111" ct="77" ts="1689590192773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="146" it="5839" lt="111" ct="77" ts="1689590186934" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="165" it="0" lt="126" ct="84" ts="1689590193426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="165" it="5841" lt="126" ct="84" ts="1689590187587" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="114" ct="78" ts="1689590194091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5837" lt="114" ct="78" ts="1689590188256" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="117" ct="81" ts="1689590194758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5840" lt="117" ct="81" ts="1689590188919" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="153" it="0" lt="118" ct="76" ts="1689590195425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="153" it="5842" lt="118" ct="76" ts="1689590189584" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="153" it="0" lt="115" ct="77" ts="1689590196090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="153" it="5852" lt="115" ct="77" ts="1689590190239" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="115" ct="81" ts="1689590196758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5841" lt="115" ct="81" ts="1689590190918" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="140" it="0" lt="106" ct="75" ts="1689590197422" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="140" it="5840" lt="106" ct="75" ts="1689590191583" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="116" ct="79" ts="1689590198092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5837" lt="116" ct="79" ts="1689590192256" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="117" ct="83" ts="1689590198758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5849" lt="117" ct="83" ts="1689590192909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="156" it="0" lt="117" ct="81" ts="1689590198772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5854" lt="117" ct="81" ts="1689590192918" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="115" ct="79" ts="1689590199426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5833" lt="115" ct="79" ts="1689590193592" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="114" ct="80" ts="1689590200092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5851" lt="114" ct="80" ts="1689590194241" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="157" it="0" lt="119" ct="82" ts="1689590200758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5842" lt="119" ct="82" ts="1689590194916" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="113" ct="79" ts="1689590201425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5847" lt="113" ct="79" ts="1689590195578" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="204" it="0" lt="126" ct="86" ts="1689590202091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="204" it="5848" lt="126" ct="86" ts="1689590196243" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="171" it="0" lt="133" ct="94" ts="1689590202758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="171" it="5847" lt="133" ct="94" ts="1689590196910" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="194" it="0" lt="151" ct="115" ts="1689590203423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="194" it="5861" lt="151" ct="115" ts="1689590197562" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="168" it="0" lt="134" ct="77" ts="1689590204092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="168" it="5849" lt="134" ct="77" ts="1689590198244" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="168" it="0" lt="136" ct="103" ts="1689590204773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="152" ct="119" ts="1689590204757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="184" it="5848" lt="152" ct="119" ts="1689590198911" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<sample t="168" it="5846" lt="136" ct="103" ts="1689590198929" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="231" it="0" lt="151" ct="114" ts="1689590205426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="231" it="5851" lt="151" ct="114" ts="1689590199577" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="218" it="0" lt="181" ct="110" ts="1689590206091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="218" it="5850" lt="181" ct="110" ts="1689590200243" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="204" it="0" lt="165" ct="85" ts="1689590206757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="204" it="5842" lt="165" ct="85" ts="1689590200916" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="198" it="0" lt="159" ct="122" ts="1689590207424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="198" it="5848" lt="159" ct="122" ts="1689590201578" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="183" it="0" lt="143" ct="109" ts="1689590208090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="183" it="5795" lt="143" ct="109" ts="1689590202296" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="147" it="0" lt="109" ct="75" ts="1689590208758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5829" lt="109" ct="75" ts="1689590202928" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="156" it="0" lt="119" ct="82" ts="1689590209424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5807" lt="119" ct="82" ts="1689590203617" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="121" ct="83" ts="1689590210092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5831" lt="121" ct="83" ts="1689590204260" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="114" ct="78" ts="1689590210757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="100" ct="67" ts="1689590210772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="135" it="5830" lt="100" ct="67" ts="1689590204942" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<sample t="150" it="5815" lt="114" ct="78" ts="1689590204942" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="169" it="0" lt="130" ct="92" ts="1689590211427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="169" it="5769" lt="130" ct="92" ts="1689590205658" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="163" it="0" lt="125" ct="88" ts="1689590212091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5780" lt="125" ct="88" ts="1689590206310" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="156" it="0" lt="118" ct="77" ts="1689590212759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5797" lt="118" ct="77" ts="1689590206962" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="143" it="0" lt="107" ct="73" ts="1689590213425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="143" it="5801" lt="107" ct="73" ts="1689590207623" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="154" it="0" lt="118" ct="84" ts="1689590214090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="154" it="5817" lt="118" ct="84" ts="1689590208274" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="115" ct="81" ts="1689590214760" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5855" lt="115" ct="81" ts="1689590208905" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="170" it="0" lt="136" ct="104" ts="1689590215423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="170" it="5843" lt="136" ct="104" ts="1689590209581" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="156" it="0" lt="117" ct="81" ts="1689590216093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="156" it="5843" lt="117" ct="81" ts="1689590210251" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="179" it="0" lt="145" ct="112" ts="1689590216760" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="179" it="5852" lt="145" ct="112" ts="1689590210909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="179" it="0" lt="139" ct="102" ts="1689590216779" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="179" it="5871" lt="139" ct="102" ts="1689590210909" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="167" it="0" lt="129" ct="92" ts="1689590217427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="167" it="5830" lt="129" ct="92" ts="1689590211597" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="177" it="0" lt="140" ct="103" ts="1689590218091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="177" it="5837" lt="140" ct="103" ts="1689590212255" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="119" ct="82" ts="1689590218759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5844" lt="119" ct="82" ts="1689590212916" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="132" it="0" lt="101" ct="69" ts="1689590219426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="132" it="5858" lt="101" ct="69" ts="1689590213568" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="143" it="0" lt="109" ct="73" ts="1689590220090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="143" it="5847" lt="109" ct="73" ts="1689590214245" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="134" it="0" lt="100" ct="68" ts="1689590220763" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="134" it="5852" lt="100" ct="68" ts="1689590214912" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="113" ct="77" ts="1689590221424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5831" lt="113" ct="77" ts="1689590215594" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="114" ct="78" ts="1689590222092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5843" lt="114" ct="78" ts="1689590216250" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="155" it="0" lt="117" ct="81" ts="1689590222757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="155" it="5818" lt="117" ct="81" ts="1689590216940" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="167" it="0" lt="128" ct="90" ts="1689590222772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="167" it="5813" lt="128" ct="90" ts="1689590216959" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="119" ct="81" ts="1689590223426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5831" lt="119" ct="81" ts="1689590217595" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="121" ct="83" ts="1689590224091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5822" lt="121" ct="83" ts="1689590218269" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="121" ct="83" ts="1689590224759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5841" lt="121" ct="83" ts="1689590218918" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="132" it="0" lt="101" ct="68" ts="1689590225425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="132" it="5867" lt="101" ct="68" ts="1689590219559" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="112" ct="77" ts="1689590226091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5857" lt="112" ct="77" ts="1689590220235" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="140" it="0" lt="107" ct="75" ts="1689590226759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="140" it="5862" lt="107" ct="75" ts="1689590220898" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="151" it="0" lt="113" ct="78" ts="1689590227424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="151" it="5850" lt="113" ct="78" ts="1689590221574" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="118" ct="85" ts="1689590228092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5852" lt="118" ct="85" ts="1689590222241" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="139" it="0" lt="106" ct="74" ts="1689590228756" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="139" it="5844" lt="106" ct="74" ts="1689590222913" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="136" it="0" lt="102" ct="69" ts="1689590228771" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="136" it="5833" lt="102" ct="69" ts="1689590222939" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="170" it="0" lt="135" ct="99" ts="1689590229425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="170" it="5842" lt="135" ct="99" ts="1689590223585" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="160" it="0" lt="122" ct="84" ts="1689590230092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5844" lt="122" ct="84" ts="1689590224250" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="163" it="0" lt="124" ct="85" ts="1689590230758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5840" lt="124" ct="85" ts="1689590224919" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="115" ct="79" ts="1689590231424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5867" lt="115" ct="79" ts="1689590225558" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="171" it="0" lt="137" ct="100" ts="1689590232089" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="171" it="5850" lt="137" ct="100" ts="1689590226241" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="144" it="0" lt="108" ct="74" ts="1689590232757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="144" it="5858" lt="108" ct="74" ts="1689590226900" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="116" ct="79" ts="1689590233422" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5849" lt="116" ct="79" ts="1689590227575" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="114" ct="80" ts="1689590234091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5841" lt="114" ct="80" ts="1689590228250" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="142" it="0" lt="109" ct="75" ts="1689590234757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="142" it="5862" lt="109" ct="75" ts="1689590228895" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="117" ct="69" ts="1689590234771" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5864" lt="117" ct="69" ts="1689590228907" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="120" ct="82" ts="1689590235426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5831" lt="120" ct="82" ts="1689590229596" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="162" it="0" lt="123" ct="84" ts="1689590236090" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="5837" lt="123" ct="84" ts="1689590230253" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="158" it="0" lt="120" ct="83" ts="1689590236757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5837" lt="120" ct="83" ts="1689590230921" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="116" ct="81" ts="1689590237425" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5852" lt="116" ct="81" ts="1689590231573" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="159" it="0" lt="121" ct="82" ts="1689590238091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5830" lt="121" ct="82" ts="1689590232261" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="165" it="0" lt="127" ct="81" ts="1689590238758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="165" it="5855" lt="127" ct="81" ts="1689590232902" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="164" it="0" lt="126" ct="85" ts="1689590239423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="164" it="5848" lt="126" ct="85" ts="1689590233575" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="114" ct="78" ts="1689590240093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5850" lt="114" ct="78" ts="1689590234243" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="136" it="0" lt="103" ct="70" ts="1689590240773" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<httpSample t="152" it="0" lt="116" ct="80" ts="1689590240758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="136" it="5851" lt="103" ct="70" ts="1689590234922" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<sample t="152" it="5858" lt="116" ct="80" ts="1689590234899" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="161" it="0" lt="124" ct="90" ts="1689590241426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="161" it="5840" lt="124" ct="90" ts="1689590235585" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="152" it="0" lt="116" ct="80" ts="1689590242092" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="152" it="5839" lt="116" ct="80" ts="1689590236253" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="148" it="0" lt="114" ct="79" ts="1689590242759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5843" lt="114" ct="79" ts="1689590236916" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="149" it="0" lt="113" ct="79" ts="1689590243424" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="149" it="5847" lt="113" ct="79" ts="1689590237577" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="146" it="0" lt="109" ct="74" ts="1689590244089" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="146" it="5840" lt="109" ct="74" ts="1689590238251" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="164" it="0" lt="125" ct="87" ts="1689590244757" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="164" it="5835" lt="125" ct="87" ts="1689590238924" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="150" it="0" lt="114" ct="79" ts="1689590245422" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="150" it="5836" lt="114" ct="79" ts="1689590239588" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="165" it="0" lt="129" ct="94" ts="1689590246091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="165" it="5849" lt="129" ct="94" ts="1689590240244" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="160" it="0" lt="121" ct="82" ts="1689590246756" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="160" it="5846" lt="121" ct="82" ts="1689590240911" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="157" it="0" lt="119" ct="84" ts="1689590246772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="157" it="5863" lt="119" ct="84" ts="1689590240910" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="10" na="10"/>
+<httpSample t="162" it="0" lt="125" ct="88" ts="1689590247426" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-10" dt="text" by="28580" sby="133" ng="10" na="10">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="162" it="5840" lt="125" ct="88" ts="1689590241587" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-10" dt="" by="28580" sby="133" ng="10" na="10"/>
+<sample t="0" it="1" lt="0" ct="0" ts="1689590247588" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="148" it="0" lt="112" ct="76" ts="1689590248093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-9" dt="text" by="28580" sby="133" ng="9" na="9">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="148" it="5849" lt="112" ct="76" ts="1689590242245" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-9" dt="" by="28580" sby="133" ng="9" na="9"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590248242" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="163" it="0" lt="124" ct="86" ts="1689590248759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-8" dt="text" by="28580" sby="133" ng="8" na="8">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="163" it="5851" lt="124" ct="86" ts="1689590242907" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-8" dt="" by="28580" sby="133" ng="8" na="8"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590248922" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="159" it="0" lt="122" ct="84" ts="1689590249427" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-7" dt="text" by="28580" sby="133" ng="7" na="7">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="159" it="5853" lt="122" ct="84" ts="1689590243574" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-7" dt="" by="28580" sby="133" ng="7" na="7"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590249587" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="457" it="0" lt="417" ct="77" ts="1689590250091" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-6" dt="text" by="28580" sby="133" ng="6" na="6">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="457" it="5856" lt="417" ct="77" ts="1689590244236" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-6" dt="" by="28580" sby="133" ng="6" na="6"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590250550" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="140" it="0" lt="106" ct="72" ts="1689590250759" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-5" dt="text" by="28580" sby="133" ng="5" na="5">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="140" it="5836" lt="106" ct="72" ts="1689590244922" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-5" dt="" by="28580" sby="133" ng="5" na="5"/>
+<sample t="0" it="1" lt="0" ct="0" ts="1689590250899" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="147" it="0" lt="112" ct="76" ts="1689590251423" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-4" dt="text" by="28580" sby="133" ng="4" na="4">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="147" it="5849" lt="112" ct="76" ts="1689590245573" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-4" dt="" by="28580" sby="133" ng="4" na="4"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590251571" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="135" it="0" lt="102" ct="70" ts="1689590252093" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-3" dt="text" by="28580" sby="133" ng="3" na="3">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="135" it="5835" lt="102" ct="70" ts="1689590246257" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-3" dt="" by="28580" sby="133" ng="3" na="3"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590252228" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="158" it="0" lt="112" ct="78" ts="1689590252758" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-2" dt="text" by="28580" sby="133" ng="2" na="2">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="158" it="5841" lt="112" ct="78" ts="1689590246916" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-2" dt="" by="28580" sby="133" ng="2" na="2"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590252915" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="173" it="0" lt="133" ct="84" ts="1689590252772" s="true" lb="CP01_ListarEpisodios" rc="200" rm="OK" tn="SCR1_CARGA 1-1" dt="text" by="28580" sby="133" ng="1" na="1">
+  <assertionResult>
+    <name>Respuesta 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://rickandmortyapi.com/api/episode</java.net.URL>
+</httpSample>
+<sample t="173" it="5843" lt="133" ct="84" ts="1689590246929" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="SCR1_CARGA 1-1" dt="" by="28580" sby="133" ng="1" na="1"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1689590252945" s="true" lb="LISTAR_EPISODIOS" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+
+</testResults>
